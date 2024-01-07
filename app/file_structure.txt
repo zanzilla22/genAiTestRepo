@@ -1,0 +1,71 @@
+Folder PATH listing for volume Windows
+Volume serial number is 585D-7DA0
+C:.
+³   favicon.ico
+³   file_structure.txt
+³   globals.css
+³   icons.tsx
+³   layout.tsx
+³   page.tsx
+³   toaster.tsx
+³   
+ÃÄÄÄapi
+³   ÃÄÄÄaddMessage
+³   ³       route.ts
+³   ³       
+³   ÃÄÄÄcheckRunStatus
+³   ³       route.ts
+³   ³       
+³   ÃÄÄÄcreateAssistant
+³   ³       route.ts
+³   ³       
+³   ÃÄÄÄcreateThread
+³   ³       route.ts
+³   ³       
+³   ÃÄÄÄdeleteFile
+³   ³       route.ts
+³   ³       
+³   ÃÄÄÄlistMessages
+³   ³       route.ts
+³   ³       
+³   ÃÄÄÄrunAssistant
+³   ³       route.ts
+³   ³       
+³   ÃÄÄÄupload
+³   ³       route.ts
+³   ³       
+³   ÀÄÄÄupload_gpt4v
+³           route.ts
+³           
+ÃÄÄÄcomponents
+³       index.ts
+³       InputForm.tsx
+³       LinkBar.js
+³       MessageList.js
+³       README.md
+³       statusToProgress.ts
+³       UploadFiles_Component.tsx
+³       WelcomeForm.tsx
+³       
+ÃÄÄÄhooks
+³       index.ts
+³       useChatManager.ts
+³       useChatState.ts
+³       useStartAssistant.ts
+³       
+ÃÄÄÄmodules
+³       assistantModules.ts
+³       chatModules.ts
+³       
+ÃÄÄÄpages
+³       dbTest.tsx
+³       test.tsx
+³       
+ÃÄÄÄservices
+³       api.js
+³       ChatManager.ts
+³       index.ts
+³       
+ÀÄÄÄutils
+        convertFileToBase64.ts
+        
